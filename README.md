@@ -22,9 +22,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] Created a seperate page for settings 
-- [x] Added Functionality to change the tip percentages displayed in the UISegmentedControl
-- [x] Added a button that can switch between dark mode and light mode for the entire app
+- [x] Created a seperate page for settings with functionality to change the tip percentages displayed in the UISegmentedControl and a button to switch between light mode and dark mode for the entire app
 - [x] Added functionality to split the tip for groups
 - [x] Changed the accent colors in the app to be orange and added a calculate button 
 - [x] Changed the keyboard for entering bill amounts to be the decimal pad and changed the keyboard for entering tip amounts to be a number pad
