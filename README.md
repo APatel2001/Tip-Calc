@@ -36,7 +36,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='tip-calc-recording.gif' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+GIF created with [Gifski](https://gif.ski/).
 
 ## Notes
 
